@@ -60,9 +60,9 @@ plugins:
 
 nav:
   - Home: index.md
-  - Module 1 - Intro:
-      - module-01-intro/index.md
-      - Lesson 1: module-01-intro/lesson-01.md
-  - Module 2 - Basics:
-      - module-02-basics/index.md
-      - Lesson 1: module-02-basics/lesson-01.md
+  - Kubeflow:
+      - Kubeflow/index.md
+      - Lesson 1: Kubeflow/lesson-01.md
+  - Claude Certification:
+      - ClaudeCertification/index.md
+      - Lesson 1: ClaudeCertification/lesson-01.md

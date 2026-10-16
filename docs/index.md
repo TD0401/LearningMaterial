@@ -6,8 +6,8 @@ Welcome! This site collects learning material on new topics we want to learn.
 
 | Module | Description |
 | ------ | ----------- |
-| [Module 1 - Intro](module-01-intro/index.md) | Getting oriented |
-| [Module 2 - Basics](module-02-basics/index.md) | Core concepts |
+| [Kubeflow](Kubeflow/index.md) | Machine learning workflows on Kubernetes |
+| [Claude Certification](ClaudeCertification/index.md) | Preparing for the Claude certification |
 
 ## How to use this site
 
